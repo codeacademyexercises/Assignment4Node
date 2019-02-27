@@ -1,0 +1,20 @@
+{
+  "name": "assignment4node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FormServer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
